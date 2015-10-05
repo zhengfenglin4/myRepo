@@ -117,3 +117,4 @@ utpp-ptms.war 192.168.5.228
 pols.war 192.168.5.229			  
 fmgw-web.war 192.168.5.93			
 fmgw-web.war 192.168.5.94		  
+hello world
